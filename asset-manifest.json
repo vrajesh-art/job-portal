@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/job-portal/static/css/main.5f2125ad.css",
+    "main.js": "/job-portal/static/js/main.98963264.js",
+    "static/js/787.3de4a7af.chunk.js": "/job-portal/static/js/787.3de4a7af.chunk.js",
+    "static/media/tesla.jpg": "/job-portal/static/media/tesla.67b60276a51d416242e9.jpg",
+    "index.html": "/job-portal/index.html",
+    "main.5f2125ad.css.map": "/job-portal/static/css/main.5f2125ad.css.map",
+    "main.98963264.js.map": "/job-portal/static/js/main.98963264.js.map",
+    "787.3de4a7af.chunk.js.map": "/job-portal/static/js/787.3de4a7af.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f2125ad.css",
+    "static/js/main.98963264.js"
+  ]
+}
