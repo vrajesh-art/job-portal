@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/job-portal/static/css/main.5f2125ad.css",
-    "main.js": "/job-portal/static/js/main.c71d24fa.js",
+    "main.js": "/job-portal/static/js/main.5a7b7fcc.js",
     "static/js/787.3de4a7af.chunk.js": "/job-portal/static/js/787.3de4a7af.chunk.js",
     "static/media/logo-godrej.png": "/job-portal/static/media/logo-godrej.74ba62befc0e3b2459aa.png",
     "static/media/tesla.jpg": "/job-portal/static/media/tesla.67b60276a51d416242e9.jpg",
@@ -10,11 +10,11 @@
     "static/media/logo-philips.png": "/job-portal/static/media/logo-philips.cfa8c051ef080791067e.png",
     "index.html": "/job-portal/index.html",
     "main.5f2125ad.css.map": "/job-portal/static/css/main.5f2125ad.css.map",
-    "main.c71d24fa.js.map": "/job-portal/static/js/main.c71d24fa.js.map",
+    "main.5a7b7fcc.js.map": "/job-portal/static/js/main.5a7b7fcc.js.map",
     "787.3de4a7af.chunk.js.map": "/job-portal/static/js/787.3de4a7af.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5f2125ad.css",
-    "static/js/main.c71d24fa.js"
+    "static/js/main.5a7b7fcc.js"
   ]
 }
