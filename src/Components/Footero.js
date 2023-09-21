@@ -17,7 +17,7 @@ const Footero = () => {
                         </div>
 
                         <div className="footer-col-2">
-                            <h2><i className="fa-brands fa-stumbleupon"></i>NueVera</h2>
+                            <h2><i className="fa-brands fa-stumbleupon"></i>jportal</h2>
                             <p> Our Purpose Is To Sustainably Make The Pleasure And Benefits The Corporate World!!!
                             </p>
                         </div>
